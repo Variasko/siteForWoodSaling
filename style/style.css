@@ -62,7 +62,37 @@ a{
 .product p {
     color: #666;
 }
-
+.text{
+    text-align: center;
+}
+.aboutText{
+    margin-left: 10vh;
+    margin-right: 10vh;
+    font-family: "Times New Romans";
+    font-size: 17pt;
+}
+.requT{
+    margin-top: 10vh;
+    margin-left: 10vh;
+    margin-right: 10vh;
+    font-family: "Times New Romans";
+    font-size: 17pt;
+}
+table{
+}
+td{
+    
+}
+th{
+    height: 10vh;
+}
+.Headers{
+    background-color: #333333;
+    height: 3vh;
+}
+.requ{
+    margin-left: 20vh;
+}
 
 
 footer {
