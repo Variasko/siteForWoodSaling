@@ -34,7 +34,9 @@ header h1::before {
     vertical-align: middle;  
     height: 100%;
 }
-
+p{
+    color: black;
+}
 a{
     margin: 5px;
     line-height: 1.5px;
