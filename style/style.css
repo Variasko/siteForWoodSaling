@@ -86,10 +86,15 @@ a{
 table{
 }
 td{
-    
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    height: 5vh;
+    text-align: center;
 }
 th{
     height: 10vh;
+    width: 100vh;
+    text-align: center;
 }
 .Headers{
     background-color: #333333;
